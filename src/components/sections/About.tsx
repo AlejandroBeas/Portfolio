@@ -9,14 +9,15 @@ export function About() {
         <div className="grid gap-10 sm:grid-cols-[1fr_auto] sm:items-start">
           <div className="max-w-2xl space-y-4 text-[15px] leading-relaxed text-[var(--color-text-secondary)]">
             <p>
-              Desarrollador backend y full stack con más de un año de experiencia profesional.
-              Mi foco principal es el backend — PHP, Laravel, Node.js y TypeScript —
-              aunque también me muevo con soltura en frontend con React cuando el proyecto lo pide.
+              Soy desarrollador backend y full stack, con más de un año de experiencia profesional.
+              Me muevo principalmente en PHP, Laravel, Node.js, TypeScript y Java, además de tener
+              soltura trabajando con bases de datos. En frontend controlo bien HTML y tengo bastante
+              experiencia con JavaScript, además de haber trabajado con React y Astro.
             </p>
             <p>
-              Formación técnica en Desarrollo de Aplicaciones Web, con experiencia en diseño de bases de datos,
-              APIs REST, automatización de procesos y gestión de servidores.
-              Destaco por mi gran capacidad de adaptación y aprendizaje.
+              Vengo de Formación en Desarrollo de Aplicaciones Web, y por el camino he ido cogiendo
+              experiencia en diseño de bases de datos, APIs REST, automatización de procesos y gestión
+              de servidores. Se me da bien adaptarme a proyectos nuevos y aprender rápido lo que haga falta.
             </p>
           </div>
           <div className="text-sm text-[var(--color-text-muted)]">

@@ -14,6 +14,6 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/alejandro-beas-ruiz-925b41346/",
     email: "mailto:abeasruiz@gmail.com",
   },
-  cvUrl: "src/data/CV.pdf",
+  cvUrl: "/cv.pdf",
   heroStack: ["Java", "PHP", "React", "Node.js", "MySQL", "Git"],
 };
