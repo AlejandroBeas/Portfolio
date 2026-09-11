@@ -31,7 +31,7 @@ export const projects: Project[] = [
     tagline: "SaaS para gestionar y optimizar la búsqueda de empleo.",
     description:
       "JobFlow centraliza todo el proceso de búsqueda de empleo en un solo lugar: descubrimiento de ofertas, matching automático según perfil, seguimiento de candidaturas y gestión de entrevistas. Pensado para que el usuario no pierda de vista en qué estado está cada proceso.",
-    status: "live",
+    status: " in-progress",
     stack: ["React", "Node.js", "MySQL", "TypeScript", "Docker"],
     features: [
       {
